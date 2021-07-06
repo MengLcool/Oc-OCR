@@ -2,6 +2,10 @@
 
 This project Oc-OCR (Occasional OCR) is occasionally open source.
 
+# Models
+
+we provide a BaiduNetDisk link https://pan.baidu.com/s/14LVdAv0LzfQrSRh_9H4fLw  password: pqpq
+
 # Acknowledge
 
 

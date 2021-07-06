@@ -1,6 +1,6 @@
-# Ac-OCR
+# Oc-OCR
 
-This project is occasionally open source.
+This project Oc-OCR (Occasional OCR) is occasionally open source.
 
 # Acknowledge
 
